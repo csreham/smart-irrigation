@@ -1,0 +1,12 @@
+streamlit==1.28.0
+numpy==1.24.0
+pandas==2.0.0
+matplotlib==3.7.0
+pillow==10.0.0
+cycler==0.11.0
+kiwisolver==1.4.4
+pyparsing==3.0.9
+python-dateutil==2.8.2
+fonttools==4.42.0
+contourpy==1.1.0
+packaging==23.1
